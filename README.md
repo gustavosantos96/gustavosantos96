@@ -35,13 +35,12 @@ Business Intelligence Analyst with 10+ years of experience in consulting and pro
     style="padding-right: 10px;" 
     src="https://github-readme-stats-fast.vercel.app/api?username=gustavosantos96&show_icons=true&theme=radical" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats"
       height ="200"
-      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavosantos96&layout=normal&theme=radical&custom_title=Tech Stats&size_weight=0.5&count_weight=0.5" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavosantos96&theme=radical" 
   />
-
 </p>
+
 
